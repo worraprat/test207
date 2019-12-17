@@ -1,0 +1,27 @@
+/*style = "font-family:arial; color:#00ff00;"
+body {
+    background-color: linen;
+ }
+ h1 {
+    color: maroon;
+    margin-left: 40px;
+ }*/
+ h3 {
+    color:green;
+   font-family: arial;
+ }
+
+ h2{
+    font-family: arial;
+    color: #ff00ff;
+ }
+ p{
+    font-family: arial;
+    color: brown;
+ }
+ .c3{
+     font-family: arial;
+ }
+ .c2{
+    color: blue;
+}
